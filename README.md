@@ -3,7 +3,7 @@
 A text summarizer built using Hugging Face's `transformers` library in Python to summarize the text and a C program to write the summary in a .txt file The bash script checks if the virtual environments exists, compiles the C program and runs the Python Script.
 
 ## Features
-- **Terminal Tnterface**: Users can input the text to be summarized on the command line
+- **Terminal Interface**: Users can input the text to be summarized on the command line
 - **Summarizes text using Hugging Face's BART model**.
 - **Outputs the summarized text to a `.txt` file using a C program.**
 - **Includes a Bash Script** to handle compilation and running the program.
