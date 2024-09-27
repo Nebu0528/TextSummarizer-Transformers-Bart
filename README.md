@@ -6,7 +6,7 @@ A text summarizer built using Hugging Face's `transformers` library in Python to
 - **Terminal Tnterface**: Users can input the text to be summarized on the command line
 - **Summarizes text using Hugging Face's BART model**.
 - **Outputs the summarized text to a `.txt` file using a C program.**
-- **Includes a Bash Script** to handle compilation and running the program.**
+- **Includes a Bash Script** to handle compilation and running the program.
 
 ## Dependencies
 - **Python 3.7+**
